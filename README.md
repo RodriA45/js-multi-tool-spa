@@ -6,6 +6,8 @@ Una **Single Page Application (SPA)** completa desarrollada con JavaScript Vanil
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+![Vista previa del proyecto](js-multi-tool-spa.png)
+
 ## 🚀 Descripción General
 
 Este proyecto integra 20 funcionalidades distintas en una interfaz única y fluida. Desde una calculadora básica hasta un tablero Kanban dinámico, cada ejercicio demuestra desde manipulación básica del DOM hasta lógica avanzada utilizando JavaScript puro.
